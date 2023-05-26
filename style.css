@@ -1,0 +1,28 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: rgb(0, 0, 0);
+	font-weight: bold;
+}
+canvas
+{
+	background: rgb(135, 165, 122);
+	border-radius: 20px;
+	border: white dotted 5px;
+	margin-bottom: 30px;
+}
+
+.title
+{
+	margin-top: 15px;
+	width:100%;
+}
+
+h5{
+	color:red;
+	font-weight: bold;
+}
